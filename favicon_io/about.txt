@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Golos Text
+- Font Author: Copyright 2019 The Golos Text Project Authors (https://github.com/googlefonts/golos-text)
+- Font Source: http://fonts.gstatic.com/s/golostext/v4/q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plVRRQ5cEr8zXcyx.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
